@@ -1,2 +1,2 @@
 # CSE305
-Project about designing a online dating website
+Project about designing an online dating website
